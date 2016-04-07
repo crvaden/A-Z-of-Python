@@ -48,8 +48,8 @@ print(evens)
 print(odds)
 
 
-map()
-Sends each item in list to a function
+# map()
+# ends each item in list to a function
 def square(x):
     return x ** 2
 
